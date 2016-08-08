@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-bot-web-app",
+  "version": "0.0.0",
+  "description": "NodejsBotWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "sveerapaneni"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-wit": "^4.0.0",
+    "socket.io": "^1.4.8"
+  }
+}
